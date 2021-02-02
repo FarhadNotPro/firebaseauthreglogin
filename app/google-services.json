@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28319977875",
+    "project_id": "kotlinauthreglogin",
+    "storage_bucket": "kotlinauthreglogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28319977875:android:c0d964156186a50d7d9866",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthreglogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28319977875-ogufsshc2ngp49r97bgl6osg8ibk0a7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Gi6wXL__oZlNjvk4-tIzPCdHoEHDl8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28319977875-ogufsshc2ngp49r97bgl6osg8ibk0a7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
